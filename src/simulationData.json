@@ -1,0 +1,80 @@
+[
+  {
+    "id": "R46cpN5CN",
+    "name": "Readonly",
+    "properties": {
+      "id": "a896d038-c1b2-4f67-9b08-70897728e753",
+      "userfieldGuid": "a896d038-c1b2-4f67-9b08-70897728e753",
+      "designMode": "false",
+      "type": "userfield",
+      "xpath": "widget.property863",
+      "data": "[ { id: 1, value: 'test1'}, { id: 2, value: 'test2' }]",
+      "value": "1",
+      "targetXpath": "BMPf5EBz6",
+      "control": "ContextDropdown",
+      "extendedData": "",
+      "displayName": "Test",
+      "visible": true,
+      "editable": "false",
+      "required": true,
+      "displayType": "both",
+      "labelAlign": "fN1s4iGOW",
+      "valueAlign": "Jm2QhaiHZ",
+      "labelWidth": 616,
+      "valueWidth": 579,
+      "displaytype": "Of9lk5Za1"
+    }
+  },
+  {
+    "id": "inIbl5tv4",
+    "name": "Scenario",
+    "properties": {
+      "id": "a896d038-c1b2-4f67-9b08-70897728e753",
+      "userfieldGuid": "a896d038-c1b2-4f67-9b08-70897728e753",
+      "designMode": "false",
+      "type": "userfield",
+      "xpath": "widget.property527",
+      "data": "[ { id: 1, value: 'test1'}, { id: 2, value: 'test2' }]",
+      "value": "1",
+      "targetXpath": "8fSKnNp2p",
+      "control": "ContextDropdown",
+      "extendedData": "",
+      "displayName": "Test",
+      "visible": true,
+      "editable": true,
+      "required": true,
+      "displayType": "both",
+      "labelAlign": "n8ewqrS9s",
+      "valueAlign": "GBJMYp3Zk",
+      "labelWidth": 866,
+      "valueWidth": 447,
+      "displaytype": "mEK6FRXCe"
+    }
+  },
+  {
+    "id": "Y7QepwneE",
+    "name": "Readonly Design",
+    "properties": {
+      "id": "a896d038-c1b2-4f67-9b08-70897728e753",
+      "userfieldGuid": "a896d038-c1b2-4f67-9b08-70897728e753",
+      "designMode": "true",
+      "type": "userfield",
+      "xpath": "widget.property979",
+      "data": "[ [1, 'Test'], [2, 'Test2'] ]",
+      "value": "1",
+      "targetXpath": "a.b.c",
+      "control": "ContextDropdown",
+      "extendedData": "",
+      "displayName": "Blah",
+      "visible": true,
+      "editable": "false",
+      "required": true,
+      "displayType": "both",
+      "labelAlign": "iAggblWh6",
+      "valueAlign": "OqoznI33N",
+      "labelWidth": 787,
+      "valueWidth": 107,
+      "displaytype": "QGprvDmen"
+    }
+  }
+]

@@ -1,0 +1,98 @@
+{
+  "widget-guid": "a896d038-c1b2-4f67-9b08-70897728e753",
+  "guid": "a896d038-c1b2-4f67-9b08-70897728e753",
+  "friendly-name": "ContextDropdown",
+  "name": "ContextDropdown",
+  "display": {
+    "default": "ContextDropdown",
+    "languages": [
+      {
+        "en": "ContextDropdown"
+      }
+    ]
+  },
+  "group": {
+    "default": "Bizagi",
+    "languages": [
+      {
+        "en": "Bizagi"
+      }
+    ]
+  },
+  "widget-definition": "ContextDropdown.json",
+  "type": "userfield",
+  "version": "1.0",
+  "design": {
+    "toolbar-icon": {
+      "nodpi": {
+        "large": "icons/nodpi/large.png",
+        "normal": "icons/nodpi/normal.png",
+        "small": "icons/nodpi/small.png",
+        "xlarge": "icons/nodpi/xlarge.png",
+        "xxlarge": "icons/nodpi/xxlarge.png"
+      },
+      "ldpi": {
+        "large": "icons/ldpi/large2.png",
+        "normal": "icons/ldpi/normal2.png",
+        "small": "icons/ldpi/small2.png",
+        "xlarge": "icons/ldpi/xlarge2.png",
+        "xxlarge": "icons/ldpi/xxlarge2.png"
+      },
+      "mdpi": {
+        "large": "icons/mdpi/large3.png",
+        "normal": "icons/mdpi/normal3.png",
+        "small": "icons/mdpi/small3.png",
+        "xlarge": "icons/mdpi/xlarge3.png",
+        "xxlarge": "icons/mdpi/xxlarge3.png"
+      },
+      "hdpi": {
+        "large": "icons/hdpi/large4.png",
+        "normal": "icons/hdpi/normal4.png",
+        "small": "icons/hdpi/small4.png",
+        "xlarge": "icons/hdpi/xlarge4.png",
+        "xxlarge": "icons/hdpi/xxlarge4.png"
+      }
+    }
+  },
+  "jquery": {
+    "desktop": {
+      "files": {
+        "implementation": "ContextDropdown.js",
+        "additionalfiles": {
+          "js": [
+            "myPluginLib.js"
+          ],
+          "css": [
+            "styles.css"
+          ]
+        }
+      }
+    },
+    "tablet": {
+      "files": {
+        "implementation": "ContextDropdown.js",
+        "additionalfiles": {
+          "js": [
+            "myPluginLib.js"
+          ],
+          "css": [
+            "styles.css"
+          ]
+        }
+      }
+    },
+    "smartphone": {
+      "files": {
+        "implementation": "ContextDropdown.js",
+        "additionalfiles": {
+          "js": [
+            "myPluginLib.js"
+          ],
+          "css": [
+            "styles.css"
+          ]
+        }
+      }
+    }
+  }
+}
